@@ -1,7 +1,9 @@
+import { Button } from "@/components/ui/button";
+
 const home = () => {
   return (
     <div>
-      <h1>Home</h1>
+      <Button>Click me</Button>
     </div>
   );
 };
